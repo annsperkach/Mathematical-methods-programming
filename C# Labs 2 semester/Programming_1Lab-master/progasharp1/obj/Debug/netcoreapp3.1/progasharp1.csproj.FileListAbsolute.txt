@@ -1,0 +1,13 @@
+C:\Users\An-PC\source\repos\progasharp1\bin\Debug\netcoreapp3.1\progasharp1.exe
+C:\Users\An-PC\source\repos\progasharp1\bin\Debug\netcoreapp3.1\progasharp1.deps.json
+C:\Users\An-PC\source\repos\progasharp1\bin\Debug\netcoreapp3.1\progasharp1.runtimeconfig.json
+C:\Users\An-PC\source\repos\progasharp1\bin\Debug\netcoreapp3.1\progasharp1.runtimeconfig.dev.json
+C:\Users\An-PC\source\repos\progasharp1\bin\Debug\netcoreapp3.1\progasharp1.dll
+C:\Users\An-PC\source\repos\progasharp1\bin\Debug\netcoreapp3.1\progasharp1.pdb
+C:\Users\An-PC\source\repos\progasharp1\obj\Debug\netcoreapp3.1\progasharp1.csprojAssemblyReference.cache
+C:\Users\An-PC\source\repos\progasharp1\obj\Debug\netcoreapp3.1\progasharp1.AssemblyInfoInputs.cache
+C:\Users\An-PC\source\repos\progasharp1\obj\Debug\netcoreapp3.1\progasharp1.AssemblyInfo.cs
+C:\Users\An-PC\source\repos\progasharp1\obj\Debug\netcoreapp3.1\progasharp1.csproj.CoreCompileInputs.cache
+C:\Users\An-PC\source\repos\progasharp1\obj\Debug\netcoreapp3.1\progasharp1.dll
+C:\Users\An-PC\source\repos\progasharp1\obj\Debug\netcoreapp3.1\progasharp1.pdb
+C:\Users\An-PC\source\repos\progasharp1\obj\Debug\netcoreapp3.1\progasharp1.genruntimeconfig.cache

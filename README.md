@@ -1,7 +1,4 @@
-# Mathematical-methods-programming
-Various methods of mathematical analysis that have been programmed for laboratory work.
-There are:
+# CourseWork TaxiPark OOP C#
+Timekeeping and accounting
 
-1 branch: SRM - Special methods of computational mathematics 2 semester
-2 branch: Theory of algorithms 2 semester
-3 branch: C++ and C# OOP labs
+Taxopark provides transportation services for customers (registered and new, with a bonus discount for regular customers and on general terms) by accepting an order from the customer, informing the customer about the trip data and the customer's transportation itself, while the fare is calculated depending on the trip data. It is also possible to receive data on the working hours of individual employees of the taxi fleet and calculate their salary.

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TA_Lab2_Sperkach_Anna_IS-01", "TA_Lab2_Sperkach_Anna_IS-01.pyproj", "{E02209FB-63D5-47FD-83BD-B36E5C9349D5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "minimum", "..\minimum\minimum.pyproj", "{D1A42009-002B-45BD-9885-4E89B34F8DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02209FB-63D5-47FD-83BD-B36E5C9349D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02209FB-63D5-47FD-83BD-B36E5C9349D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A42009-002B-45BD-9885-4E89B34F8DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A42009-002B-45BD-9885-4E89B34F8DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690E8806-05B2-43C1-8524-479AD6307BC1}
+	EndGlobalSection
+EndGlobal

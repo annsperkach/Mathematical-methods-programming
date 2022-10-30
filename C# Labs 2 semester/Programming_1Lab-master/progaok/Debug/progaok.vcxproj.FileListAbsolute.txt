@@ -1,0 +1,2 @@
+C:\Users\An-PC\source\repos\progaok\Debug\progaok.exe
+C:\Users\An-PC\source\repos\progaok\Debug\progaok.pdb

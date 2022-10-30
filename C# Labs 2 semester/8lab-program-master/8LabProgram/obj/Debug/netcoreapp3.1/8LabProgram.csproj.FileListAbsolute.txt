@@ -1,0 +1,13 @@
+C:\Users\An-PC\source\repos\8LabProgram\bin\Debug\netcoreapp3.1\8LabProgram.exe
+C:\Users\An-PC\source\repos\8LabProgram\bin\Debug\netcoreapp3.1\8LabProgram.deps.json
+C:\Users\An-PC\source\repos\8LabProgram\bin\Debug\netcoreapp3.1\8LabProgram.runtimeconfig.json
+C:\Users\An-PC\source\repos\8LabProgram\bin\Debug\netcoreapp3.1\8LabProgram.runtimeconfig.dev.json
+C:\Users\An-PC\source\repos\8LabProgram\bin\Debug\netcoreapp3.1\8LabProgram.dll
+C:\Users\An-PC\source\repos\8LabProgram\bin\Debug\netcoreapp3.1\8LabProgram.pdb
+C:\Users\An-PC\source\repos\8LabProgram\obj\Debug\netcoreapp3.1\8LabProgram.csprojAssemblyReference.cache
+C:\Users\An-PC\source\repos\8LabProgram\obj\Debug\netcoreapp3.1\8LabProgram.AssemblyInfoInputs.cache
+C:\Users\An-PC\source\repos\8LabProgram\obj\Debug\netcoreapp3.1\8LabProgram.AssemblyInfo.cs
+C:\Users\An-PC\source\repos\8LabProgram\obj\Debug\netcoreapp3.1\8LabProgram.csproj.CoreCompileInputs.cache
+C:\Users\An-PC\source\repos\8LabProgram\obj\Debug\netcoreapp3.1\8LabProgram.dll
+C:\Users\An-PC\source\repos\8LabProgram\obj\Debug\netcoreapp3.1\8LabProgram.pdb
+C:\Users\An-PC\source\repos\8LabProgram\obj\Debug\netcoreapp3.1\8LabProgram.genruntimeconfig.cache
